@@ -8,6 +8,8 @@
 
 - Einführung
 - Vorgehensmodelle
+- Agile Softwareentwicklung
+- Qualitätssicherung
 - Modellbasiertes Software Engineering
 - Requirements Engineering
 
