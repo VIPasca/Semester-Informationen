@@ -25,3 +25,5 @@
 - Differenzialgelichungen
 - Tylor Polynome
 - Uebungen
+- Geometrie
+- Integralrechnung
