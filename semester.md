@@ -8,7 +8,7 @@
 
 - Einführung
 - Vorgehensmodelle
-- Agile Softwareentwicklung
+- Qualitätssicherung
 - Requirements Engineering
 
 ### Signale und Systeme
