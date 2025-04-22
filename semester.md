@@ -13,4 +13,13 @@
 
 ### Signale und Systeme
 
+- Einführung
+- Periodische Signale
+- Nichtperiodische Signale
+- Lineare Zeitkontinuierliche Systeme
+
 ### Mathematik 3
+
+- Differenzialgelichungen
+- Tylor Polynome
+- Uebungen
