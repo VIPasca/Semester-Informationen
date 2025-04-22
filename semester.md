@@ -2,4 +2,10 @@
 
 Übersicht über die Veranstaltung im Semester
 
-## Vorlesungen
+## Module
+
+### Software-Technik
+
+### Signale und Systeme
+
+### Mathematik 3
