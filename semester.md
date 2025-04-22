@@ -27,3 +27,5 @@
 - Uebungen
 - Vektoren
 - Matritzen
+- Integralrechnung
+- Differenzialgleichungen
